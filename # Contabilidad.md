@@ -32,8 +32,7 @@ En el módulo de **Contabilidad** puedes usar el informe de **consulta de movimi
 - ¿Cómo obtengo un informe de ventas por cliente desde contabilidad?  
 - ¿Dónde veo el detalle de ingresos por tercero?  
 - ¿Qué reporte me muestra cuánto le vendí a un cliente en el año?  
+- ¿Cómo se genera un auxiliar de cuánto ha facturado cada tercero en el año?
 
-**Recursos adicionales:**  
-- [+Info: Informe auxiliar de cuentas](https://link-mas-info)  
-- [Video: Generar auxiliar de cuentas](https://www.youtube.com/watch?v=XXXXX)  
-- [Guía de montaje: Contabilidad básico](https://link-guia)  
+**Recursos adicionales:**   
+- [Video: Generar informe de consulta de movimiento auxiliar de cuentas](https://www.youtube.com/watch?v=DEUTzgbF1fo&t=80s)  
